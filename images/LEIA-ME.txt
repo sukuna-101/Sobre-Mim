@@ -1,0 +1,2 @@
+Coloque aqui as fotos dos seus projetos (projeto-1.png, projeto-2.png, ...)
+e as fotos do site (hero, galeria). Depois use o nome do arquivo em <img src="images/...">.
